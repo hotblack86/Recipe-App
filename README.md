@@ -9,7 +9,7 @@
 - In App.js set APP_ID and APP_KEY to the API id and key strings given to you by EDAMAM
 
 
-**Use**
+*Use*
 
 - Run the App 
 ```
@@ -17,7 +17,7 @@ npm start
 ```
 
 
-**Source**
+*Source*
 
 - Dev Ed youtube tutorial https://www.youtube.com/watch?v=U9T6YkEDkMo
 
