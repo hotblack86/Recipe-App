@@ -1,5 +1,15 @@
 **A Recipe App built with React**
 
+*Prerequisites*
+
+- Sign up for EDAMAM account
+
+- Install webpack and webpack-cli from npm
+```
+npm install --save-dev webpack webpack-cli
+```
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
