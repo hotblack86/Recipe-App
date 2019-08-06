@@ -36,6 +36,8 @@ const App = () => {
 
   return (
     <div className="App">
+      <h1 className="title">Recipe App</h1>
+      <h3 className="title">Enter ingredient below to see some great recipe ideas!</h3>
      <form onSubmit={getSearch} className="search-form">
        <input 
           className="search-bar" 
